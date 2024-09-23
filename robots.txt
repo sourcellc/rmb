@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+sitemap:  https://romanobet.plasmic.site/sitemap.xml
